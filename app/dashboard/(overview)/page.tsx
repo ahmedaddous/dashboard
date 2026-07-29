@@ -7,7 +7,7 @@ import { RevenueChartSkeleton, LatestInvoicesSkeleton, CardsSkeleton } from '@/a
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "%s | Acme Dashboard"
+  title: "Homepage"
 };
 
 export default async function Page() {
